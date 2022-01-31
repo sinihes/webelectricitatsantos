@@ -15,11 +15,15 @@ Esta realizada con react-dom y otros paquetes npm para mejorar su funcionalidad.
 **Algunos de los ejemplos son:**
 
 *Los estilos se han realizado con styled-components.*
+
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 *La navegacion react-router-dom.*
+
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 *Con i18Next se a conseguido el cambio de idiomas.*
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
