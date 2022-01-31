@@ -3,7 +3,7 @@
 ## _PROYECTO PERSONAL_
 
 **Puede previsualizar el proyecto aqui:**
-[www.electricitatsantos.cat](http://www.electricitatsantos.cat/http:// "web electricidad santos")
+[www.electricitatsantos.cat](hhttps://webelectricitatsantos21.vercel.app//http:// "web electricidad santos")
 
 
 <br>
