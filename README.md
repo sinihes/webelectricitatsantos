@@ -3,10 +3,10 @@
 ## _PROYECTO PERSONAL_
 
 **Puede previsualizar el proyecto aqui:**
-[www.electricitatsantos.cat](hhttps://webelectricitatsantos21.vercel.app//http:// "web electricidad santos")
-
+[www.electricidadsantos.cat](https://webelectricitatsantos21-lhlj5wln7-sinihes.vercel.app/ "www.electricidadsantos.cat")
 
 <br>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Este proyecto es una web funcional para una empresa de electricidad industrial.
