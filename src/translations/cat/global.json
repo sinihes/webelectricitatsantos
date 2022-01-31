@@ -1,0 +1,116 @@
+{
+    "navbar":{
+        "title": "Electricitat SANTOS"
+    },
+
+
+    "siderbar":{
+        "business": "Empresa",
+        "descover": "Descobreixi",
+        "service": "Serveis",
+        "blog": "Blog",
+        "contact": "Contacte"
+    },
+
+
+    "heroSection":{
+        "title2": "¿Tens un repte? Estem desitjant ajudar-te",
+        "paragraf": "En qualsevol projecte el més important són les persones que el desenvolupen.",
+        "button": "Truca'ns"
+    },
+
+    "business_section":{
+        "topLine":"EMPRESA D'ELECTRICITAT INDUSTRIAL",
+        "headline": "Donem llum als teus projectes personals",
+        "description": "Som una empresa líder amb més de 35 anys d'experiència en el sector.",
+        "buttonLabel": "Saber més"
+    },
+
+
+
+    "discover_section":{
+        "topLine":"Un llarg camí",
+        "headline": "El LED és la il·luminació més sostenible que existeix al mercat",
+        "description": "Un focus led pot arribar a proporcionar fins a 13 vegades més llum que un halogen bàsic de 230 V.",
+        "buttonLabel": "Descubri més"
+    },
+
+    "business_page":{
+        "topLine": "EMPRESA D'ELECTRICITAT INDUSTRIAL",
+        "headline": "Donem llum als teus projectes personals",
+        "description": "ELECTRICITAT I AUTOMATISMES SANTOS, S.A. és una empresa amb més de 35 anys d'experiència en el sector industrial, que ha anat adaptant-se a les noves tecnologies que aquests últims anys a demandat el mercat, el que ha fet que sigui una empresa pionera en la instauració de nous productes i així poder cobrir les necessitats dels nostres clients i trobar sempre la seva satisfacció. A més, al ser instal·ladors i mantenidors i dur a terme les instal·lacions de principi a fi, s'ofereix una gran responsabilitat sobre aquestes i per tant, major fiabilitat i rapidesa davant de problemes o avaries que puguin afectar a la producció del client. La capacitat tècnica de l'empresa i els seus treballadors, permet a ELECTRICITAT SANTOS una gran flexibilitat i ventall de tipologia de les instal·lacions"
+    },
+
+
+    "service_section":{
+        "service_title": "Nostres Serveis",
+        "btn_industries": "Indústria",
+        "btn_domestic": "Domestic",
+        "btn_automatism": "Automatismes",
+        "p_industries": "Instal·lació i manteniment industrial",
+        "p_domestic": "La il·luminació de casa seva a les nostres mans.",
+        "p_automatism": "Automatització de processos industrials"
+    },
+
+    "discover_page":{
+        "topLine": "IL·LUMINACIÓ SOSTENIBLE LED",
+        "headline": "Més per menys",
+        "description": "Per la seva composició els LED és la il·luminació més sostenible que existeix al mercat. Una bombeta LED pot suposar un estalvi de fins a un 90% en electricitat. Una bombeta LED que consumeix 7W il·lumina el mateix que una incandescent de 60W",
+        "propose": "Per això, en electricitat Santos, us proposem un canvi en el seu sistema d'il·luminació.",
+        "description2" :  "A més, Un altre factor que fa que la il·luminació LED sigui més sostenible és la durabilitat, ja que tenen una durada mitjana d'uns 3 anys (25.000 hores), des de 10 a 25 vegades més que les bombetes tradicionals, de manera que estarem generant molts menys residus. Per això, encara que el preu duna bombeta LED pot ser superior compensa.",
+        "propose2": "Amb nosaltres no us haureu de preocupar per la qualitat dels nostres productes, ja que treballem amb les millors marques i amb la garantia d'una feina ben feta."
+    },
+
+    "industrie_page":{
+        "topLine": "INSTAL·LACIONS ELÈCTRIQUES INDUSTRIALS I MANTENIMENT",
+        "headline": "Un bon disseny equival a una bona produccio.",
+        "description": "Sabem com n'és d'important dissenyar adequadament una instal·lació que pugui fer front a una producció adaptable per a la seva empresa.",
+        "description2": "Per això, nostre equip de professionals realitzarà un estudi precís i adaptat a les vostres necessitats. Perquè pugui estar tranquil que la seva producció no serà afectada per una mala instal·lació i un mal manteniment.",
+        "description3": "No tingueu dubtes en contactar amb nosaltres, us atendrem encantats i intentarem resoldre els vostres dubtes, a Electricitat Santos treballem per a un ampli ventall d'empreses de diferents sectors, degut a això tenim gran experiència amb la qual podrem ajudar-vos."
+    },
+
+    "automatism_page":{
+        "topLine": "BUSCA UNA EMPRESA D'AUTOMATITZACIÓ?",
+        "headline": "Som especialistes en automatització de processos industrials",
+        "description": "Electricitat Santos posseeix un equip d'enginyers elèctrics amb gran experiència en l'exercici d'automatització de processos industrials.",
+        "description2": "T'oferirem assessorament personalitzat i solucions efectives per satisfer totes les teves necessitats, a més de garantir-te un estàndard alt de qualitat tant a nivell de mà d'obra com dels materials a emprar durant tot el transcurs de la instal·lació"
+    },
+
+    "domestic_page":{
+        "topLine": "TENS UNA AVARIA A LA TEVA HABITATGE?",
+        "headline": "Anirem encantats a casa teva i la tractarem com si fos nostra",
+        "description": "A Electricidad Santos som capaços de fer la reforma integral de la teva oficina, local o habitatge. Amb gran professionalitat i cura perquè sabem com n'és d'important la llar de cadascú."
+    },
+
+    "blog_page":{
+        "topLine": "BLOG",
+        "headline": "Electricitat i Automatismes Santos rep un premi a la internacionalització",
+        "description": "Des de la seva fundació l’any 1980, Electricitat i Automatismes Santos de Sant Andreu de la Barca ha centrat la seva activitat en el desenvolupament i execució de projectes elèctrics en el sector químic, plantes de formigó i àrids, i fabricants de maquinària.",
+        "description2": "És en el 2011 quan veiem la necessitat de definir una nova estratègia per pal·liar els efectes devastadors de la crisi. Decidim obrir-nos a mercats internacionals de la ma de la Cambra de Comerç de Barcelona. Gràcies a la formació continuada dels personal tècnic i la col·laboració amb Disseny i Aplicació de Sistemes, l’any 2012 aconsegueim l’adjudicació d’una planta química a Egipte",
+        "description3": "I, en el 2013 se’ns atorguen dos projectes més als Emirats Àrabs Units. Actualment treballem també a Panamà. En la concessió d’aquest premi s’ha valorat l’aposta pels mercats internacionals com a estratègia per a fer front a la caiguda de clients nacionals. Tenim sense dubte un gran potencial d’expansió."
+    },
+
+    "blog_section":{
+        "topLine": "QUE MÉS SABER",
+        "headline": "Premi a la internacionalización",
+        "description": "Des de la seva fundació l’any 1980, Electricitat i Automatismes Santos de Sant Andreu de la Barca ha centrat la seva activitat en el desenvolupament i execució de projectes elèctrics en el sector químic, plantes de formigó i àrids, i fabricants de maquinària.",
+        "buttonLabel": "Saber més"
+    },
+
+
+    "footer":{
+        "logo": "Electricitat Santos",
+        "privacy": "politica de privacitat"
+    },
+
+    "contact":{
+        "topLine": "CONTACTO",
+        "headline": "ELECTRICITAT I AUTOMATISMES SANTOS, S.A.",
+        "description": "C/ BARI, 9.   POL. IND. ACISA CASTELLBISBAL 08755 CASTELLBISBAL (Barcelona).",
+        "description2": "93 682 05 10",
+        "buttonTelefon": "Truca'ns",
+        "buttonMail": "Mail",
+        "textMap": "Anar a Google Maps"
+    }
+
+}
