@@ -51,8 +51,8 @@ const Navbar = ({ toggle }) => {
                     <NavbarContainer>
                         <NavLogo to='/' onClick={toggleHome}>{t("navbar.title")}</NavLogo>
                         <SwitchFlagsContainer>
-                            <FlagIcon onClick={()=>i18n.changeLanguage("es")}  src={flagEs}/>
-                            <FlagIcon onClick={()=>i18n.changeLanguage("cat")} src={flagCat}/>
+                            <FlagIcon alt='bandera de españa, cambio de idioma.' onClick={()=>i18n.changeLanguage("es")}  src={flagEs}/>
+                            <FlagIcon alt='bandera de cataluña, cambio de idioma.' onClick={()=>i18n.changeLanguage("cat")} src={flagCat}/>
                         </SwitchFlagsContainer>
                         <MobileIcon onClick={toggle}>
                             <FaBars />

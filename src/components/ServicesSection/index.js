@@ -25,7 +25,7 @@ function Services({ primary, dark2, dark }) {
             <ServicesH2Title>{t("service_section.service_title")}</ServicesH2Title>
             <ServicesWrapper>
                 <ServicesCard>
-                    <ServicesIcon src={Icon1} />
+                    <ServicesIcon src={Icon1} alt='Una fabrica' />
                     <ButtonPage
                         to="/industrie"
                         $primary={primary ? 1 : 0}
@@ -35,7 +35,7 @@ function Services({ primary, dark2, dark }) {
                     <ServicesP>{t("service_section.p_industries")}</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src={Icon2} />
+                    <ServicesIcon src={Icon2} alt='Una vivienda' />
                     <ButtonPage
                         to="/domestic"
                         $primary={false}
@@ -44,7 +44,7 @@ function Services({ primary, dark2, dark }) {
                     <ServicesP>{t("service_section.p_domestic")}</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src={Icon3} />
+                    <ServicesIcon src={Icon3} alt='Una interface de usuario'/>
                     <ButtonPage
                         to="/automatism"
                         $primary={primary ? 1 : 0}

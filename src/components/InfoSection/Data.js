@@ -96,11 +96,10 @@ export const industrieData = {
     lightTextDesc: false,
     imgStart: true,
     img: require("../../images/industrie.svg").default,
-    alt: 'Un camion grua descargando materia en una fabrica',
+    alt: "",
     dark: false,
     primary: false,
     darkText: true,
-
 }
 
 
@@ -129,7 +128,7 @@ export const domesticData = {
     lightTextDesc: false,
     imgStart: false,
     img: require("../../images/domestic.svg").default,
-    alt: 'Una vivienda domestica.',
+    alt: 'Una vivienda domestica',
     dark: false,
     primary: false,
     darkText: true,
